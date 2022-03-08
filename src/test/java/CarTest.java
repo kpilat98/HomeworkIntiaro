@@ -18,7 +18,7 @@ public class CarTest {
         System.out.println(model+ " " + testBrakes.testResult);
         System.out.println(model+ " " + testChassis.testResult);
     }
-
+//komentarz
     @Test
     public void testOpelVivaro(){
         model = "vivaro";
